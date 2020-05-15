@@ -1,0 +1,16 @@
+PODS:
+  - XRcategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XRcategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XRcategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XRcategoryKit: 879b1b6b59ec833fd195b9e70fd033faa1b9861a
+
+PODFILE CHECKSUM: 618158a1d04304e0fcdc8647b4ffe90e44ae5c7d
+
+COCOAPODS: 1.9.1

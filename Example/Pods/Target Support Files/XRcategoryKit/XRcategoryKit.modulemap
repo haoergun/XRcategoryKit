@@ -1,0 +1,6 @@
+framework module XRcategoryKit {
+  umbrella header "XRcategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
