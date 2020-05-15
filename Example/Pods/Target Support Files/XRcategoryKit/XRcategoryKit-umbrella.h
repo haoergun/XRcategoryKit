@@ -10,9 +10,6 @@
 #endif
 #endif
 
-#import "NSArray+Wgarray.h"
-#import "NSString+HUString.h"
-#import "UIAlertController+HuAlert.h"
 
 FOUNDATION_EXPORT double XRcategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char XRcategoryKitVersionString[];
