@@ -1,5 +1,5 @@
 PODS:
-  - XRcategoryKit (1.0.0)
+  - XRcategoryKit (1.0.1)
 
 DEPENDENCIES:
   - XRcategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XRcategoryKit: ef570e07dfe8b192f5031a663e1a53eb23acb057
+  XRcategoryKit: 23ef79180b7a478c18044771a91e72241c2db143
 
 PODFILE CHECKSUM: 618158a1d04304e0fcdc8647b4ffe90e44ae5c7d
 

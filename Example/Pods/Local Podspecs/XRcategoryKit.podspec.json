@@ -1,6 +1,6 @@
 {
   "name": "XRcategoryKit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A short description of XRcategoryKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/haoergun/XRcategoryKit.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/haoergun/XRcategoryKit.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "8.0"
